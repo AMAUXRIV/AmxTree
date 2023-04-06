@@ -271,8 +271,15 @@
   },
 
   "resources": {
-    "title": "Resources",
+    "title": "Project",
     "urls": [
+      {
+        "title": "My Web",
+        "url": "https://amauxriv.github.io/AmxWeb/",
+        "body": "Landing Page",
+        "tag": ["Free"],
+        "published_date": "2025-07-17"
+      },
       {
         "title": "Tutor Chatbot",
         "url": "https://github.com/AMAUXRIV/tutor-chtbt",
@@ -309,6 +316,7 @@
         "tag": ["PROJECTS", "RESOURCES"],
         "published_date": "2025-07-5"
       },
+
       {
         "title": "Tugas Kuliah ",
         "url": "https://github.com/AMAUXRIV/Tugas-Kuliah",
