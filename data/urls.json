@@ -1,0 +1,340 @@
+{
+  
+  "featured": {
+    "title": "Featured",
+    "urls": [
+      {
+        "title": "Bootcamp Belajar Coding Langganan Saya",
+        "url": "https://www.rakamin.com/",
+        "body": "Buat kamu yang pengen belajar ngoding tapi bingung mulai dari mana.",
+        "tag": ["CODING", "COURSE"],
+        "published_date": "2022-08-03"
+      },
+      {
+        "title": "UI/UX Design Mastery dari Skilvul",
+        "url": "http://bit.ly/skilvul-dimas",
+        "body": "Belajar mulai dari Pengenalan UI/UX dan Figma  sampe bikin Study Case dan Persiapan Melamar Kerja.",
+        "tag": ["UI/UX", "COURSE"],
+        "published_date": "2022-06-25"
+      },
+      {
+        "title": "Paket Hosting Pelajar Niagahoster",
+        "url": "https://bit.ly/promopelajarNH-dimas",
+        "body": "Promo Hosting Pelajar 35% + 50% dengan kode PELAJAR50. Udah termasuk free domain 1 tahun.",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2022-06-15"
+      },
+      {
+        "title": "SPRINTMATE #LevelUp Camp : Boost Your UI/UX Skill",
+        "url": "https://bit.ly/LevelUp-Camp1",
+        "body": "Program intensif 6 minggu belajar ui/ux design. Worth it!",
+        "tag": ["UI/UX", "COURSE"],
+        "published_date": "2022-06-08"
+      },
+      {
+        "title": "Daftar Beasiswa Bootcamp Full Stack Bangalore",
+        "url": "https://www.instagram.com/p/Cd75LX3NcqM",
+        "body": "Belajar Full Stack Data Science dan Web Developer selama 5 bulan, gratis!",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2022-05-26"
+      },
+      {
+        "title": "Daftar Bootcamp Gratis CAMP404",
+        "url": "https://www.camp404.com/reg#",
+        "body": "Ada lebih dari 20 kelas gratis bersertifikat buat kamu.",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2022-05-25"
+      },
+      {
+        "title": "Fresh Graduate Academy",
+        "url": "https://digitalent.kominfo.go.id/",
+        "body": "Program sertifikasi tingkat global, gratis dari KOMINFO.",
+        "tag": ["CERTIFICATION", "COURSE"],
+        "published_date": "2022-06-11"
+      },
+      {
+        "title": "Daftar Beasiswa IDCamp 2022",
+        "url": "https://idcamp.ioh.co.id/",
+        "body": "Ada 8 pilihan jalur belajar yang bisa kamu pilih.",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2022-06-07"
+      },
+      {
+        "title": "Daftar Virtual Open House Backend Engineering Bootcamp",
+        "url": "https://j5478.app.link/e/2R6T3FgZ7pb",
+        "body": "Belajar di Binar worth it nggak sih? Yok cari tau!",
+        "tag": ["EVENT", "COURSE"],
+        "published_date": "2022-05-18"
+      },
+      {
+        "title": "Beasiswa Pendidikan Dicoding",
+        "url": "https://dicoding.id/beasiswa",
+        "body": "Belajar Google Cloud Gratis.",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2022-05-06"
+      },
+      {
+        "title": "GitHub Copilot",
+        "url": "https://copilot.github.com/",
+        "body": "Don’t fly solo.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
+        "title": "Download Binar Academy",
+        "url": "https://j5478.app.link/BinarBackendDimas",
+        "body": "Belajar macem-macem skill digital secara gratis. Kita bisa belajar Backend Engineering dari awam sampe paham.",
+        "tag": ["COURSE", "FREEMIUM"],
+        "published_date": "2022-04-20"
+      },
+      {
+        "title": "Daftar CRAFT by tiket.com",
+        "url": "https://bit.ly/CRAFTForm",
+        "body": "tiket.com lagi buka lebih dari 30 posisi buat freshgrad dan mahasiswa tingkat akhir yg kuliahnya jurusan teknologi dan nyaman berbahasa inggris.",
+        "tag": ["OPPORTUNITIES", "CAREER"],
+        "published_date": "2022-04-05"
+      },
+      {
+        "title": "Download Aplikasi KitaLulus",
+        "url": "https://bit.ly/AON_DimasMiftah",
+        "body": "Lowongan kerja dari berbagai bidang dan industri apalagi di bidang IT. Udah terjamin aman dari penipuan dan diawasi langsung sama KOMINFO.",
+        "tag": ["APP", "CAREER"],
+        "published_date": "2022-04-03"
+      },
+      {
+        "title": "Daftar Baparekraf Developer Day",
+        "url": "https://bdd.kemenparekraf.go.id/",
+        "body": "Pelajari Cyber Security, Blockchain, Frontend, dan Backend dengan materi yang ramah untuk pemula.",
+        "tag": ["EVENT", "COURSE"],
+        "published_date": "2022-03-30"
+      },
+      {
+        "title": "Daftar Lomba Cerdas Cermat 2022",
+        "url": "http://bit.ly/DAFTARLCC2",
+        "body": "Lomba dilaksanakan secara online dengan hadiah utama liburan ke Singapore, Malaysia, dan Thailand.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2022-03-19"
+      },
+      {
+        "title": "Panduan Lomba Cerdas Cermat 2022",
+        "url": "http://bit.ly/GUIDEBOOKLCC2",
+        "body": "Terbuka untuk umum tanpa ada batasan pendidikan. Peserta harus berusia 12-35 tahun.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2022-03-19"
+      },
+      {
+        "title": "Download Aplikasi BinarGo!",
+        "url": "https://j5478.app.link/binargodimasmiftah",
+        "body": "Solusi asyik belajar mandiri, dengan materi praktis yang disusun sesuai kasus nyata di Indonesia.",
+        "tag": ["COURSE", "FREEMIUM"],
+        "published_date": "2022-03-02"
+      },
+      {
+        "title": "Cloud Hosting Terbaik Indonesia",
+        "url": "https://bit.ly/DimasCloudMax",
+        "body": "Beli Cloud Hosting dengan up to 75% discount (gratis domain). Pakai kode DIMASMIFTAH untuk +10% discount.",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2022-03-01"
+      },
+      {
+        "title": "Daftar CAMP404 Bootcamp Batch 11",
+        "url": "https://www.camp404.com/reg",
+        "body": "Bootcamp programming dan non-programming dengan fasilitas lengkap, gratis!",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2022-02-23"
+      },
+      {
+        "title": "Registrasi UNIKOM CodeLabs",
+        "url": "https://codelabs.unikom.ac.id/register/",
+        "body": "Build Society With Technology",
+        "tag": ["COMMUNITY", "RECRUITMENT"],
+        "published_date": "2022-02-19"
+      },
+
+      {
+        "title": "Webinar Grand Opening Bootcamp CAMP404",
+        "url": "https://www.temanacara.com/B10",
+        "body": "Daftar webinar dari CAMP404 dengan judul Industrial Digital Transformation.",
+        "tag": ["WEBINAR", "FREEMIUM"],
+        "published_date": "2022-01-24"
+      },
+      {
+        "title": "Download Aplikasi Binar Academy",
+        "url": "https://j5478.app.link/dimasmiftahbinaracademy",
+        "body": "Buka halaman Silver Courses dan mulai pelajari skill yang wajib di era digital, gratis!",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2022-01-15"
+      },
+      {
+        "title": "ITBOX - Solusi Pintar Belajar Digital",
+        "url": "https://bit.ly/itbox-event",
+        "body": "Belajar Gratis dari pakarnya yang bakal ngasi tau kamu apa sih yang kamu perlu siapin buat punya karir impian.",
+        "tag": ["COURSE", "EVENT"],
+        "published_date": "2021-12-10"
+      },
+      {
+        "title": "Anniversary Promo #UnlimitEight Niagahoster",
+        "url": "https://bit.ly/DimasMiftahNHAnniv",
+        "body": "Banyak banget promo menarik dan discount gede-gedean sampe 80%. Bahkan ada bagi-bagi hosting dan domain gratis juga!",
+        "tag": ["PROMO", "HOSTING"],
+        "published_date": "2021-11-26"
+      },
+      {
+        "title": "Daftar Roadshow Bangkit 2022 UNIKOM",
+        "url": "https://bit.ly/roadshow-bangkit-unikom",
+        "body": "Kickstart your tech career with Bangkit! Bangkit is one of the Kampus Merdeka learning models designed through a collaboration with Google, the Indonesian Ministry of Education and Culture, GoTo, and Traveloka.",
+        "tag": ["COURSE", "FREE"],
+        "published_date": "2021-11-29"
+      },
+      {
+        "title": "Super 10.10 Jagoan Hosting",
+        "url": "https://rebrand.ly/superjagoan-giveaway",
+        "body": "Mulai kebutuhan untuk Go Online kamu dengan promo promo menarik dari Jagoan Hosting selama bulan Oktober. Lebih mudah dan lebih hemat. #MulaiBarengJH",
+        "tag": ["PRODUCT", "HOSTING"],
+        "published_date": "2021-10-22"
+      },
+      {
+        "title": "Daftar Pelatihan Gratis Bersertifikat",
+        "url": "https://www.camp404.com/reg",
+        "body": "CAMP404 mengadakan 14 pelatihan gratis berbagai topik, mulai dari programming sampai non-programming.",
+        "tag": ["FREE", "COURSE"],
+        "published_date": "2021-09-27"
+      },
+      {
+        "title": "Daftar Hackathon NEXGEN Challenge",
+        "url": "https://www.kejarmimpi.id/nexgenchallenge",
+        "body": "Program hackathon dari CIMB Niaga dengan total hadiah 100 juta. Periode pendaftaran 27 aug - 30 sept 2021.",
+        "tag": ["EVENT", "COMPETITION"],
+        "published_date": "2021-09-19"
+      }
+    ]
+  },
+
+  "roadmap": {
+    "title": "Roadmap",
+    "urls": [
+      {
+        "image": "https://i.pinimg.com/564x/66/46/52/664652e3aa7b2dbc3e3c306d3cc7c413.jpg",
+        "title": "Belajar Machine Learning",
+        "programming": "https://www.youtube.com/watch?v=iAnEdi3Z38A&list=PLVVbdM66GgvwgdLlZoTuvfkmlCQowbqTN",
+        "tokopedia": "",
+        "body": "Ramah untuk para pemula. ^_^",
+        "tag": ["Python", "DS", "Free"],
+        "published_date": "2032-06-25"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/08/57/03/085703a99096d17f7c7ee4ed3429f663.jpg",
+        "title": "Python",
+        "programming": "https://www.youtube.com/watch?v=iA8lLwmtKQM&list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY",
+        "tokopedia": "",
+        "body": "Recommended untuk seluruh kalangan kecuali gamers.^_^",
+        "tag": ["Python", "DS", "Free"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/69/fc/9a/69fc9a51d4d4d5e02b8a4d156d9aed28.jpg",
+        "title": "MySql",
+        "programming": "https://www.youtube.com/watch?v=D3W0ZSrXWDU&list=PL2O3HdJI4voGs6CiEUPXwt1fhLLqu30E_",
+        "tokopedia": "",
+        "body": "Database yang bisa kamu gunakan untuk menyimpan data. ^_^",
+        "tag": ["Database", "Programming"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://i.pinimg.com/originals/c4/31/dd/c431dd7de99862ddb61c5d5f6d56041c.gif",
+        "title": "GIT",
+        "programming": "https://www.youtube.com/watch?v=fQbTeNX1mvM&list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq",
+        "tokopedia": "",
+        "body": "bahas pengenalan Git untuk pemula yang baru pertama kali belajar Git. ^_^",
+        "tag": ["GIT", "VERSON CONTROL", "Free"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://i.pinimg.com/originals/df/54/d4/df54d411305571ca5d82371db65a97ea.gif",
+        "title": "OOP Python",
+        "programming": "https://www.youtube.com/watch?v=1PjHsUnOkes&list=PLZS-MHyEIRo7ab0-EveSvf4CLdyOECMm0",
+        "tokopedia": "",
+        "body": "Biar Makin Pro GG Gaming YGY.",
+        "tag": ["Python", "DS", "Free"],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/fe/0c/c2/fe0cc24c071f4f38440d7e6ecfb780b1.jpg",
+        "title": "Hadoop",
+        "programming": "https://www.youtube.com/watch?v=0VtNugm5UBo&list=PLAog7t_Arobu-ABRuxD9Gw1mKCHPeU_Od",
+        "tokopedia": "",
+        "body": "belajar konsep dan praktik map reduce dengan hadopo dan python menggunakan case study data history pembelian barang pada suatu toko.",
+        "tag": ["FREE", "BIGDATA"],
+        "published_date": "2032-04-18"
+      }
+    ]
+  },
+
+  "resources": {
+    "title": "Resources",
+    "urls": [
+      {
+        "title": "Tutor Chatbot",
+        "url": "https://github.com/AMAUXRIV/tutor-chtbt",
+        "body": "Project kecil kecilan.",
+        "tag": ["Python", "SKLEARN", "Free"],
+        "published_date": "2025-07-17"
+      },
+      {
+        "title": "NODE JS | EXPRESS JS | MONGODB",
+        "url": "https://github.com/AMAUXRIV/NEM",
+        "body": "Tutorial",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-13"
+      },
+      {
+        "title": "GitHub - Bio Link",
+        "url": "https://github.com/AMAUXRIV",
+        "body": "Website for links in bio.",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-8"
+      },
+      {
+        "title": "CLI Todo App",
+        "url": "https://github.com/AMAUXRIV/cli-build-appToDo",
+        "body": "Aplikasi CLI dengan Golang",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-5"
+      },
+
+      {
+        "title": "Bot WA ",
+        "url": "https://github.com/AMAUXRIV/Bot-Wa-NodeJs",
+        "body": "Mau Coba ?",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-5"
+      },
+      {
+        "title": "Tugas Kuliah ",
+        "url": "https://github.com/AMAUXRIV/Tugas-Kuliah",
+        "body": "Semua Tugas Kuliah",
+        "tag": ["PROJECTS", "RESOURCES"],
+        "published_date": "2025-07-5"
+      },
+      
+      {
+        "title": "CV/Resume Resources",
+        "url": "https://dimasmiftah.notion.site/CV-Resume-Resources-b522af1e30fb4423a990ca1be2abcbbc",
+        "body": "contoh CV/Resume yang aku pake buat daftar Magang Merdeka dan juga yang versi baru.",
+        "tag": ["RESUME", "RESOURCES"],
+        "published_date": "2025-12-04"
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Traktir Amau beli kopi.",
+        "url": "https://saweria.co/amauxriv",
+        "body": "Makasih udah support!",
+        "tag": ["SUPPORT", "TRAKTIR"]
+      }
+    ]
+  }
+}
