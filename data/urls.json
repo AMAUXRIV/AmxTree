@@ -81,6 +81,27 @@
         "published_date": "2025-04-18"
       },
       {
+        "title": "Chat GPT",
+        "url": "https://chat.openai.com/chat",
+        "body": "Don’t fly solo.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
+        "title": "Retool",
+        "url": "https://retool.com/",
+        "body": "Start shipping apps that move your business forward.",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
+        "title": "Teleporthq",
+        "url": "https://teleporthq.io",
+        "body": "Low-code Front-end Design & Development Platform",
+        "tag": ["TOOLS", "RESOURCES"],
+        "published_date": "2025-04-18"
+      },
+      {
         "title": "Download Binar Academy",
         "url": "https://j5478.app.link/BinarBackendDimas",
         "body": "Belajar macem-macem skill digital secara gratis. Kita bisa belajar Backend Engineering dari awam sampe paham.",
