@@ -241,31 +241,4 @@ body {
   text-transform: uppercase;
 }
 
-.counter {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 50px 0;
-}
-
-
-.counter__item {
-  margin: 0 20px;
-  text-align: center;
-}
-
-
-.counter__item__number {
-  font-size: 4rem;
-  font-weight: bold;
-  color: var(--c-text);
-}
-
-
-.counter__item__text {
-  font-size: 1.5rem;
-  text-transform: uppercase;
-  letter-spacing: .1rem;
-  color: var(--c-text);
-}
 /*# sourceMappingURL=style.css.map */
