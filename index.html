@@ -96,5 +96,54 @@
         name="search"
       />
     </section>
+
+    
+    <section class="counter">
+      <div class="counter__item">
+        <div class="counter__item__number" id="counter__item__number__visitor">
+          0
+        </div>
+        <div class="counter__item__text">Visitor</div>
+      </div>
+      <div class="counter__item">
+        <div class="counter__item__number" id="counter__item__number__page">
+          0
+        </div>
+        <div class="counter__item__text">Page</div>
+      </div>
+      <div class="counter__item">
+        <div class="counter__item__number" id="counter__item__number__view">
+          0
+        </div>
+        <div class="counter__item__text">View</div>
+      </div>
+
+      <script>
+        const visitor = document.getElementById(
+          "counter__item__number__visitor"
+        );
+        const page = document.getElementById("counter__item__number__page");
+        const view = document.getElementById("counter__item__number__view");
+
+        let visitorCount = 0;
+        let pageCount = 0;
+        let viewCount = 0;
+
+        setInterval(() => {
+          visitorCount++;
+          visitor.innerText = visitorCount;
+        }, 1000);
+
+        window.addEventListener("load", () => {
+          pageCount++;
+          page.innerText = pageCount;
+        });
+
+        window.addEventListener("click", () => {
+          viewCount++;
+          view.innerText = viewCount;
+        });
+      </script>
+    </section>
   </body>
 </html>
