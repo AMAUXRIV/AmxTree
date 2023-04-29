@@ -302,6 +302,13 @@
         "published_date": "2025-07-17"
       },
       {
+        "title": "Mutiara Web Resume",
+        "url": "https://mutiara-pa.netlify.app/",
+        "body": "Landing Page",
+        "tag": ["Free"],
+        "published_date": "2025-07-17"
+      },
+      {
         "title": "Anime Amau",
         "url": "https://amauxrave.wixsite.com/watcher",
         "body": "Landing Page",
@@ -315,13 +322,7 @@
         "tag": ["Free"],
         "published_date": "2025-07-17"
       },
-      {
-        "title": "Mutiara Web Resume",
-        "url": "https://mutiara-pa.netlify.app/",
-        "body": "Landing Page",
-        "tag": ["Free"],
-        "published_date": "2025-07-17"
-      },
+      
       {
         "title": "Tutor Chatbot",
         "url": "https://github.com/AMAUXRIV/tutor-chtbt",
